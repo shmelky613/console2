@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shmelky\\Source\\Repos\\shmelky613\\console2\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Shmelky\\source\\repos\\shmelky613\\console2\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Shmelky\\Source\\Repos\\shmelky613\\console2\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\Shmelky\\source\\repos\\shmelky613\\console2\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Shmelky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shmelky\\Source\\Repos\\shmelky613\\console2\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Shmelky\\source\\repos\\shmelky613\\console2\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shmelky\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Shmelky\\Source\\Repos\\shmelky613\\console2\\ClassLibrary1\\ClassLibrary1.csproj": {
-              "projectPath": "C:\\Users\\Shmelky\\Source\\Repos\\shmelky613\\console2\\ClassLibrary1\\ClassLibrary1.csproj"
+            "C:\\Users\\Shmelky\\source\\repos\\shmelky613\\console2\\ClassLibrary1\\ClassLibrary1.csproj": {
+              "projectPath": "C:\\Users\\Shmelky\\source\\repos\\shmelky613\\console2\\ClassLibrary1\\ClassLibrary1.csproj"
             }
           }
         }
