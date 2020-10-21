@@ -12,15 +12,17 @@ namespace ClassLibrary1
 
         public GameSession()
         {
-            CurrentPlayer = new Class1();
-            CurrentPlayer.Name = "Scott";
-            CurrentPlayer.CharacterClass = "Fighter";
-            CurrentPlayer.HitPoints = 10;
-            CurrentPlayer.Gold = 1000000;
-            CurrentPlayer.ExperiencePoints = 0;
-            CurrentPlayer.Level = 1;
+            CurrentPlayer = new Class1
+            {
+                Name = "Scott",
+                CharacterClass = "Fighter",
+                HitPoints = 10,
+                Gold = 1000000,
+                ExperiencePoints = 0,
+                Level = 1
+            };
 
-            Name = "JJ";
+            
         }
     }
 }
