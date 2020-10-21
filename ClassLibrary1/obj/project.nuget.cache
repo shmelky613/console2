@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dfsWAGhqAzwcg3XJZzh0So34eUQaUAyRCSLdblaxJG/rTRBqlHqcrHJoe42ma+j3Odn9mJoghf0Dc9p1iXW/Zw==",
+  "dgSpecHash": "WKS4Y4MV/zhm0XBN1BU0NVgGo8dBwhfp8KOqQmJzKvL3tMMgELZrgs1lskPwYmtoSYVQzAD5YGn+1vqdA557Iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Shmelky\\source\\repos\\ConsoleApp1\\ClassLibrary1\\ClassLibrary1.csproj",
+  "projectFilePath": "C:\\Users\\Shmelky\\Source\\Repos\\shmelky613\\console2\\ClassLibrary1\\ClassLibrary1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shmelky\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Shmelky\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
